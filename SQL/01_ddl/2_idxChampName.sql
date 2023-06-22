@@ -1,0 +1,1 @@
+CREATE INDEX idx_Champion_Name ON Champion (name);

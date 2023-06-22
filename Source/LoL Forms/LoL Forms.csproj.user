@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="AddChampion.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="AddStory.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="AddUniverse.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Admin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Champions.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="CreateAdmin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ManageChampions.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ManageRegion.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="HomePage.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ManageStories.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ManageUniverse.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Regions.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Selected_Region.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Stories.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Universes.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
